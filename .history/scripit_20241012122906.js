@@ -1,0 +1,1 @@
+const qrinput = document.getElementById('')
